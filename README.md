@@ -1,2 +1,2 @@
-# dog
-This project help's to purchase animals food 
+Open "Main" Branch to view my code not this "main".
+
